@@ -5,7 +5,7 @@ Build portfolio with pure Html, CSS, JavaScript
 
 ## Screenshots
 
-![Screenshot_7](https://github.com/TuanAnh01032001/Portfolio/issues/1#issue-2959048229)
+![Screenshot_7](https://raw.githubusercontent.com/TuanAnh01032001/Portfolio/refs/heads/main/assets/image/portfolio.png)
 
 ## Live Demo
 
