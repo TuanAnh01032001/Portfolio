@@ -12,11 +12,4 @@ Build portfolio with pure Html, CSS, JavaScript
 [Portfolio](  https://portfolio-lyart-eta-15.vercel.app/  )
 
 
-## Color Reference
-
-| Color | 
-| Background Color (--bg-color) #1f242d |
-|Second background Color  (--second-bg-color)  #323946 |
-| Text Color  (--text-color)  #ffffffe2 |
-| Main Color  (--main-color) #26d048 |
 
