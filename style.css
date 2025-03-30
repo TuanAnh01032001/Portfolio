@@ -1,11 +1,6 @@
-/* ==========================================
-              Google Fonts
-=========================================== */
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap");
 
-/* ==========================================
-              Global CSS
-=========================================== */
+
 * {
   margin: 0;
   padding: 0;
@@ -22,7 +17,7 @@
   --second-bg-color: #323946;
   --text-color: #ffffffe2;
 
-  --main-color: #00fbff;
+  --main-color: #26d048;
   --transition: all 0.4s ease-in;
 }
 
@@ -42,9 +37,7 @@ section {
   padding: 7rem 9% 2rem;
 }
 
-/* ==========================================
-              Header
-=========================================== */
+/* Header*/
 .header {
   position: fixed;
   top: 0;
@@ -69,9 +62,7 @@ section {
   cursor: default;
 }
 
-/* ==========================================
-              Navbar
-=========================================== */
+/* Navbar*/
 .navbar a {
   font-size: 1.1rem;
   color: var(--text-color);
@@ -94,9 +85,7 @@ section {
   display: none;
 }
 
-/* ==========================================
-              Home
-=========================================== */
+/*Home*/
 .home {
   display: flex;
   flex-direction: row;
@@ -215,9 +204,7 @@ span {
   box-shadow: none;
 }
 
-/* ==========================================
-              About
-=========================================== */
+/* About */
 .about {
   display: flex;
   justify-content: center;
@@ -244,9 +231,7 @@ span {
   margin: 2rem 0 3rem;
 }
 
-/* ==========================================
-              Services
-=========================================== */
+/* Education*/
 .education h2 {
   margin-bottom: 5rem;
 }
@@ -297,9 +282,7 @@ span {
   margin: 1rem 0 1.5rem;
 }
 
-/* ==========================================
-              Portfolio
-=========================================== */
+/* Portfolio*/
 .portfolio {
   background: var(--second-bg-color);
 }
@@ -423,9 +406,7 @@ span {
 
 
 
-/* ==========================================
-              Contact
-=========================================== */
+/* Contact */
 .contact h2 {
   margin-bottom: 5rem;
 }
@@ -469,9 +450,7 @@ span {
   cursor: pointer;
 }
 
-/* ==========================================
-              Footer
-=========================================== */
+/* Footer*/
 .footer {
   display: flex;
   justify-content: space-between;
